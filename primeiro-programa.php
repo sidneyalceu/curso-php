@@ -16,4 +16,10 @@ $soma = array_sum($notas);
 
 echo $soma."\n";
 
+switch ($opcao){
+    case 1:
+    
+    case 2:
+}
+
 ?>
