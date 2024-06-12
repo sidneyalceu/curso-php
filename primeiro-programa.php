@@ -10,4 +10,10 @@ $filme = [
 
 echo $filme["genero"]."\n";
 
+$notas = [1,2,4,5];
+
+$soma = array_sum($notas);
+
+echo $soma."\n";
+
 ?>
